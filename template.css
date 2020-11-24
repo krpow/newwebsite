@@ -1,2 +1,3 @@
-@indent
-.tab { margin-left: 40px; }
+p {
+  text-indent: 50px;
+}
